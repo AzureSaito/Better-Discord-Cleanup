@@ -310,3 +310,4 @@ C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\Azur Lane-Z46
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\NEKOPARA Beach Kitties,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\NEKOPARA Sleeping Kitties,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\White Foxgirl Night,
+test
