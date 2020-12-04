@@ -304,10 +304,10 @@ C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\Transparent\Frosted Rain
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\Transparent\Frosted Rainbow v2,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\Transparent\Transparent Earth,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\Transparent\Transparent Scratched Up v2,
+C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\Azur Lane-Nagato Sink,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\Azur Lane-York Hamm,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\Azur Lane-York Hamm Xmas,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\Azur Lane-Z46,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\NEKOPARA Beach Kitties,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\NEKOPARA Sleeping Kitties,
 C:\Users\Dawso\Music\Github-Repos\Better-Discord\Themes\TwinShadow\White Foxgirl Night,
-test
