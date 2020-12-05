@@ -10835,3 +10835,42 @@ nav.wrapper-1Rf91z.guilds-1SWlCJ > ul > .scroller-2TZvBN > div[aria-label]:not([
 .radioIconForeground-XwlXQN {
   color: var(--Main-Colour);
 }
+
+.wrapper-3WhCwL {
+	color: var(--Main-Colour);
+	background: transparent;
+}
+
+.wrapper-3WhCwL:hover {
+	color: var(--Main-Colour);
+	background: transparent;
+  box-shadow: 0 0 4px 0 inset var(--Main-Colour);
+}
+
+.guildSeparator-3s64Iy {
+	background-color: var(--Secondary-Main-Colour);
+}
+
+.scroller-2TZvBN.none-2Eo-qx.scrollerBase-289Jih > .listItem-2P_4kh{
+	height: 1px!important;
+}
+
+.theme-dark #bd-settingspane-container .ui-switch-item h3, .theme-dark #bd-settingspane-container h2.ui-form-title {
+	color: var(--Main-Colour);
+}
+
+.theme-dark #bd-settingspane-container .ui-switch-item .style-description {
+	color: var(--Secondary-Main-Colour);
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button,.checkbox-3kaeSU span{
+	color: var(--Main-Colour);
+}
+
+.cardPrimary-1Hv-to{
+	background-color: transparent;
+}
+
+.theme-dark .operations-36ENbA {
+	color: var(--Secondary-Main-Colour);
+}
